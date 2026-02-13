@@ -28,7 +28,7 @@ This repository provides a **geometry-centric evaluation framework** for assessi
 
 ## Datasets Details
 
-The datasets were collected in both indoor and outdoor environments at Wuhan Textile University using a Livox HAP (TX) LiDAR sensor. The dataset can be downloaded [here]([https://your-dataset-link.com](https://drive.google.com/file/d/1UlkYz0kKReFsDZU5adD7K9bRvTFB4xi6/view?usp=drive_link)).
+The datasets were collected in both indoor and outdoor environments at Wuhan Textile University using a Livox HAP (TX) LiDAR sensor. The dataset can be downloaded [here](https://your-dataset-link.com](](https://drive.google.com/file/d/1UlkYz0kKReFsDZU5adD7K9bRvTFB4xi6/view?usp=drive_link).
 
 ![LiDAR Sensor](./assets/device.png)
 
