@@ -34,6 +34,8 @@ The datasets were collected in both indoor and outdoor environments at Wuhan Tex
 
 ![Scenes](./assets/scenes.png)
 
+![Scenes](./assets/campus.gif)
+
 ## Directory
 
 ```text
